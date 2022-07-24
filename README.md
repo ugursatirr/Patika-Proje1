@@ -12,7 +12,7 @@
 
 Big O gösterimine göre O(n^2) şeklindedir 
 
-## Dizi sralandıktan sonra 18 sayısı hangi kapsama girer
+## Dizi sıralandıktan sonra 18 sayısı hangi kapsama girer
 Dizi sıralandıktan sonra 18 sayısı ortalarda yer alacağı için Average Case durumuna girer.
 
 www.patika.dev proje1
